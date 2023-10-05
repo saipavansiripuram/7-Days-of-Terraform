@@ -1,5 +1,3 @@
-# 7Days-of-Terraform
-
 # Terraform Introduction
 
 ## What is Terraform
